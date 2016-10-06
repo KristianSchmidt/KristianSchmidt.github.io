@@ -38,7 +38,7 @@ It also contains two information sets. One for player 1's choice of U or D, and 
 So, we've lined up some game rules and some concepts from game theory. Let's see if we can turn this into some F#!
 
 We'll start with the players and a useful helper function.
-```language-fsharp
+```fsharp
 type Player = | P1
               | P2
 
@@ -48,20 +48,20 @@ let opponent = function
 ```
 
 Next, we'll model the different types of bets that can be made.
-```language-fsharp
+```fsharp
 type Bet = | NoBet // No bet has been made. Not a valid bet and only used to signify the start of the game
            | Bet of amount : int * die : int // A bet saying: there are atleast [amount] dice with the value [die] amongst us
            | Call // Calling a bet, ending the game
 ```
 
 We'll also make a `Roll` type to represent the rolls of the players' dice, and a `Chance` type that couples a probability with a `Roll`.
-```language-fsharp
+```fsharp
 // Represents a roll of a die for each of the players
 type Roll = { P1 : int; P2 : int }
 type Chance = { Probability : float; Roll : Roll }
 ```
 For testing who's going to win when a bet is called, we need to have a function to check if a bet is valid, given the rolled dice.
-```language-fsharp
+```fsharp
 // Tests if a Bet is valid given a Roll
 let isBetValid (Bet(amt,die)) roll =
     [roll.P1; roll.P2]        // We'll take the rolled dice
@@ -71,7 +71,7 @@ let isBetValid (Bet(amt,die)) roll =
 ```
 
 When the game ends, the players are going to get a `Payoff`. In our game it will just be 1 point or 0 points, but we'll type it as a float for generality.
-```language-fsharp
+```fsharp
 type Payoffs = { P1 : float; P2 : float }
 ```
 
@@ -79,7 +79,7 @@ type Payoffs = { P1 : float; P2 : float }
 To model the game tree, we're going to use a recursive discriminated union to represent a type `Tree`. Each instance of `Tree` represents a node and all of its children, plus additional information about the node.
 
 I'll show you the final `Tree` type here, and then I'll explain the cases:
-```language-fsharp
+```fsharp
 type Tree =
     | Terminal of Payoffs
     | Chance of chances : (Chance * Tree) list
@@ -97,12 +97,12 @@ The bets the player can make are modeled similarly to the chance node, but here 
 ## Constructing the tree
 
 Before we get to the good stuff, I'm going to have to impose another little limitation. Usually, each die has 6 sides. Well, we're going to limit this and start with 2-sided dice (coins, essentially).
-```language-fsharp
+```fsharp
 let maxDie = 2
 ```
 
 Now, let's start by making a function to construct a terminal node. At this point in the game, a player has called a bet as untrue, and we need to settle the score using the `Roll` of the players' dice.
-```language-fsharp
+```fsharp
 // A bet has been called. This function takes
 // The player who called the bet
 // The players' rolls of the dice
@@ -120,7 +120,7 @@ let makeTerminalNode callingPlayer rolls bet =
 ```
 
 To make the decision nodes, we'll need a little helper function. At a decision node, there will be a bunch of possible bets the player can make. These must be greater than the previous bet, so it seems natural that the function will be of the type `Bet -> Bet list`. With some sneaky use of the scanBack function, I got the following map:
-```language-fsharp
+```fsharp
 let remainingBets =
     let allBets = [ yield NoBet
                     for amt in 1 .. maxDie do
@@ -133,7 +133,7 @@ let remainingBets =
 ```
 
 Now we can make the decision nodes. Note that this is a recursive function, because decision nodes have more decision nodes as children. 
-```language-fsharp
+```fsharp
 // Player -> Roll -> Bet list -> Tree
 let rec makeDecisionNode player rolls previousBets =
 	let previousBet = List.head previousBets
@@ -159,7 +159,7 @@ It's not tail-recursive, but that won't matter with this game, because it is not
 
 All that's left is to make the initial chance node, and we've got ourselves a game tree.
 
-```language-fsharp
+```fsharp
 let tree () =
 	// All of the possible rolls of the dice, each with the same probability
 	let chances = [ for x in 1 .. maxDie do
