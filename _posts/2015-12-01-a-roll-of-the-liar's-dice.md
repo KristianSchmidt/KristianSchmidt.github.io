@@ -38,7 +38,8 @@ It also contains two information sets. One for player 1's choice of U or D, and 
 So, we've lined up some game rules and some concepts from game theory. Let's see if we can turn this into some F#!
 
 We'll start with the players and a useful helper function.
-``` fsharp
+
+```fsharp
 type Player = | P1
               | P2
 
@@ -48,6 +49,7 @@ let opponent = function
 ```
 
 Next, we'll model the different types of bets that can be made.
+
 ```fsharp
 type Bet = | NoBet // No bet has been made. Not a valid bet and only used to signify the start of the game
            | Bet of amount : int * die : int // A bet saying: there are atleast [amount] dice with the value [die] amongst us
