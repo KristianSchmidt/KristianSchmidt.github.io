@@ -57,12 +57,15 @@ type Bet = | NoBet // No bet has been made. Not a valid bet and only used to sig
 ```
 
 We'll also make a `Roll` type to represent the rolls of the players' dice, and a `Chance` type that couples a probability with a `Roll`.
+
 ```fsharp
 // Represents a roll of a die for each of the players
 type Roll = { P1 : int; P2 : int }
 type Chance = { Probability : float; Roll : Roll }
 ```
+
 For testing who's going to win when a bet is called, we need to have a function to check if a bet is valid, given the rolled dice.
+
 ```fsharp
 // Tests if a Bet is valid given a Roll
 let isBetValid (Bet(amt,die)) roll =
@@ -73,6 +76,7 @@ let isBetValid (Bet(amt,die)) roll =
 ```
 
 When the game ends, the players are going to get a `Payoff`. In our game it will just be 1 point or 0 points, but we'll type it as a float for generality.
+
 ```fsharp
 type Payoffs = { P1 : float; P2 : float }
 ```
@@ -81,6 +85,7 @@ type Payoffs = { P1 : float; P2 : float }
 To model the game tree, we're going to use a recursive discriminated union to represent a type `Tree`. Each instance of `Tree` represents a node and all of its children, plus additional information about the node.
 
 I'll show you the final `Tree` type here, and then I'll explain the cases:
+
 ```fsharp
 type Tree =
     | Terminal of Payoffs
@@ -99,11 +104,13 @@ The bets the player can make are modeled similarly to the chance node, but here 
 ## Constructing the tree
 
 Before we get to the good stuff, I'm going to have to impose another little limitation. Usually, each die has 6 sides. Well, we're going to limit this and start with 2-sided dice (coins, essentially).
+
 ```fsharp
 let maxDie = 2
 ```
 
 Now, let's start by making a function to construct a terminal node. At this point in the game, a player has called a bet as untrue, and we need to settle the score using the `Roll` of the players' dice.
+
 ```fsharp
 // A bet has been called. This function takes
 // The player who called the bet
@@ -122,6 +129,7 @@ let makeTerminalNode callingPlayer rolls bet =
 ```
 
 To make the decision nodes, we'll need a little helper function. At a decision node, there will be a bunch of possible bets the player can make. These must be greater than the previous bet, so it seems natural that the function will be of the type `Bet -> Bet list`. With some sneaky use of the scanBack function, I got the following map:
+
 ```fsharp
 let remainingBets =
     let allBets = [ yield NoBet
@@ -135,6 +143,7 @@ let remainingBets =
 ```
 
 Now we can make the decision nodes. Note that this is a recursive function, because decision nodes have more decision nodes as children. 
+
 ```fsharp
 // Player -> Roll -> Bet list -> Tree
 let rec makeDecisionNode player rolls previousBets =
@@ -157,6 +166,7 @@ let rec makeDecisionNode player rolls previousBets =
 		let callNode = Call, makeTerminalNode player rolls previousBet
 		Decision(player, rolls, previousBets, callNode :: nextBets)
 ```
+
 It's not tail-recursive, but that won't matter with this game, because it is not very deep.
 
 All that's left is to make the initial chance node, and we've got ourselves a game tree.
@@ -174,7 +184,9 @@ let tree () =
 ```
 
 I haven't mentioned the information sets in a while. I'll skip them partly because this is getting long, and partly because my solution for keeping track of them didn't turn out all that idiomatic. It involved the m-word... The bad one :)
+
 ## Analyzing with Gambit
+
 I'll also spare you the exercise of converting this tree into the [EFG-format](http://www.gambit-project.org/gambit14/formats.html) that Gambit uses and cut straight to the pretty pictures. Loading our game with 2-sided dice yields the following game tree
 ![Full](/content/images/2015/11/full.PNG)
 The green lines on the left represent the chance node that decides the dice, the red lines are player 1 and the blue lines are player 2.
