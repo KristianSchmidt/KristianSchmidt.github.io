@@ -1,4 +1,7 @@
-
+---
+layout: post
+title: F# Interactive Pretty Printing with Deedle  
+---
 In my department at [PFA Pension](http://www.pfa.dk) we use F# Interactive (FSI) a lot in our development. My current project is liability modeling, where I need to keep track of a lot of insurance policies. As such, a lot of collections are being displayed in FSI.
 
 The standard printer in FSI is decent, but I find it gets unwieldy as soon as the types in your collection has more than, say, 3-4 properties. If your type is composed of other types with their own properties, then it's pretty much impossible to glean any useful information from the output.
