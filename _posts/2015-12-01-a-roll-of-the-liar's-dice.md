@@ -27,7 +27,7 @@ The flow of the game will be dictated by the relationship of the nodes in the tr
 
 There's only one last concept, and that is the **information set**. Since each player can only see his own die, there will be several nodes in the game tree where he has the same amount of information available to him, but where, unbeknownst to him, the other player's roll differs. This concept can be a bit hard to grasp (and explain!), but it will hopefully become clearer once we illustrate a game tree.
 
-![Game tree](/content/images/2015/11/extensiveForm.png)
+![Game tree](/public/extensiveForm.png)
 Image borrowed from [Wikipedia](https://en.wikipedia.org/wiki/Bayesian_game)
 This shows a game with three decision nodes and four terminal nodes with payoffs for player1, player2.
 
