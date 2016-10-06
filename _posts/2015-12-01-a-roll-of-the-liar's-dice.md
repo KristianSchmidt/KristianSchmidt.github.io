@@ -1,5 +1,3 @@
-# A Roll of the Liar's Dice
-
 This post is part of the [F# Advent Calendar 2015](https://sergeytihon.wordpress.com/2015/10/25/f-advent-calendar-in-english-2015/). Check it out for two F# blog posts a day for the whole month of December. And special thanks to [Sergey Tihon](https://twitter.com/sergey_tihon) for organizing this!
 
 Today I'm going to show you a little bit of game theory modelling with F#. We'll take a common pub dice game, construct a game tree out of it and then analyze it with the [Gambit](http://www.gambit-project.org/) game theory tool.
