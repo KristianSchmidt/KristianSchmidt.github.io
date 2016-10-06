@@ -188,7 +188,7 @@ I haven't mentioned the information sets in a while. I'll skip them partly becau
 ## Analyzing with Gambit
 
 I'll also spare you the exercise of converting this tree into the [EFG-format](http://www.gambit-project.org/gambit14/formats.html) that Gambit uses and cut straight to the pretty pictures. Loading our game with 2-sided dice yields the following game tree
-![Full](/content/images/2015/11/full.PNG)
+![Full](/public/full.PNG)
 The green lines on the left represent the chance node that decides the dice, the red lines are player 1 and the blue lines are player 2.
 
 Take note of the dotted lines going between some nodes. These represent that the nodes belong to the same information set. I.e. in both nodes, the player has the same amount of information to act upon.
