@@ -1,3 +1,7 @@
+---
+layout: post
+title: Slides From My Talk At MF#K   
+---
 Yesterday I presented a talk at the functional programming Copenhagen meetup. It was about our use of F# in the actuarial team at PFA Pension, where I gave some examples of neat use cases and our general experience using the language.
 
 It gave me a chance to use [FsReveal](http://fsprojects.github.io/FsReveal/) for the first time, and I must say I was pretty impressed. The integration with Paket, FAKE and Suave makes everything run smoothly, and just writing your slides in markdown is so much easier than messing around in PowerPoint.
