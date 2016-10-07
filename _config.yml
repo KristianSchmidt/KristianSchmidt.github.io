@@ -13,6 +13,7 @@ author:
   url:            https://twitter.com/KreutzSchmidt
 
 paginate:         5
+excerpt_separator: <!--more-->
 
 # Custom vars
 
