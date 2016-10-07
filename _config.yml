@@ -12,7 +12,7 @@ author:
   name:           'Kristian Schmidt'
   url:            https://twitter.com/KreutzSchmidt
 
-paginate:         5
+paginate:          5
 excerpt_separator: <!--more-->
 
 # Custom vars
