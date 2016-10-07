@@ -6,6 +6,8 @@ In my department at [PFA Pension](http://www.pfa.dk) we use F# Interactive (FSI)
 
 The standard printer in FSI is decent, but I find it gets unwieldy as soon as the types in your collection has more than, say, 3-4 properties. If your type is composed of other types with their own properties, then it's pretty much impossible to glean any useful information from the output.
 
+<!--more-->
+
 You can find a couple of different F# pretty-printing solutions by googling, but since we were already using [Deedle](http://bluemountaincapital.github.io/Deedle/) for ad-hoc analyses, and its table based printing is very pretty, I decided to wire it up to print our collections.
 
 ## How it works

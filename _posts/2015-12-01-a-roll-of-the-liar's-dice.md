@@ -9,6 +9,8 @@ Today I'm going to show you a little bit of game theory modelling with F#. We'll
 
 No prior knowledge of game theory is needed! Gambit will do the math for us; we just need to familiarise ourselves with some of the concepts to be able to output something it can analyze.
 
+<!--more-->
+
 ## Liar's dice
 
 In this post, we'll be analyzing a simple version of the game [Liar's dice](https://en.wikipedia.org/wiki/Liar's_dice#Common_hand). There are two players, each with one die each. They roll their die simultaneously, concealing the result from each other.
