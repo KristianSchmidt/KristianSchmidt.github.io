@@ -19,3 +19,5 @@ excerpt_separator: <!--more-->
 
 github:
   repo:           https://github.com/KristianSchmidt/KristianSchmidt.github.io
+
+gems: [jekyll-paginate]
