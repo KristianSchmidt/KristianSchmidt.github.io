@@ -17,7 +17,8 @@ Redaktør: Sarah Ørsted
 Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
     <language>da-dk</language>
-    <lastBuildDate>Mon, 10 Aug 2026 21:41:04 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 22:02:38 +0200</lastBuildDate>
+    <pubDate>Tue, 04 Aug 2026 03:10:28 +0000</pubDate>
     <itunes:author>René Dahl Andersen</itunes:author>
     <itunes:summary>I 20 år arbejdede René Dahl Andersen som urobetjent, kildefører og undercoveragent for PET - tæt på narkomaner, pushere, prostituerede og kriminelle.
 
@@ -33,6 +34,8 @@ Redaktør: Sarah Ørsted
 Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <itunes:category text="True Crime" />
     <itunes:image href="https://img.podimo.com/podcast/3db63fdf-8ff4-472a-a918-a50a52c3a34e?w=400&amp;h=400&amp;s=jDOPZyZBolhf4bTWQv76kqxAF-o" />
     <atom:link href="https://www.kreutz.us/podimo/narkobetjenten.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -50,7 +53,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">597cf7f0-b5b5-4875-acd1-02ce4a4e303f</guid>
       <pubDate>Tue, 04 Aug 2026 03:10:28 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/a6be6364-3d15-4c9c-b6d5-7d562d2009c7/a6be6364-3d15-4c9c-b6d5-7d562d2009c7.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=7vnGOeNYDLz6Kzq8k9ndxKtMUGo" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/a6be6364-3d15-4c9c-b6d5-7d562d2009c7/a6be6364-3d15-4c9c-b6d5-7d562d2009c7.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=7vnGOeNYDLz6Kzq8k9ndxKtMUGo" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>1614</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -76,7 +80,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">966065d6-e561-495b-989a-c00a30d721c1</guid>
       <pubDate>Sat, 01 Aug 2026 03:00:24 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/ed76a715-5f4e-46c8-a084-6a64fb0c7dc6/ed76a715-5f4e-46c8-a084-6a64fb0c7dc6.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=mvxCNKzeRBWXX_qBvlw4KjO_RzQ" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/ed76a715-5f4e-46c8-a084-6a64fb0c7dc6/ed76a715-5f4e-46c8-a084-6a64fb0c7dc6.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=mvxCNKzeRBWXX_qBvlw4KjO_RzQ" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>2421</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -99,7 +104,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">0afee0b4-473d-4772-8e7b-4ada13783622</guid>
       <pubDate>Tue, 28 Jul 2026 03:00:50 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/2c802c4f-fee5-41be-9aee-7bb8eb898c38/2c802c4f-fee5-41be-9aee-7bb8eb898c38.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=gCUJrjTMYq767NFcXkjcZyWaa8k" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/2c802c4f-fee5-41be-9aee-7bb8eb898c38/2c802c4f-fee5-41be-9aee-7bb8eb898c38.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=gCUJrjTMYq767NFcXkjcZyWaa8k" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>1827</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -122,7 +128,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">4565c0a2-fadf-4852-ac75-176b3f5c963f</guid>
       <pubDate>Tue, 21 Jul 2026 03:10:43 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/75a9cd5a-7594-4e49-abfd-a943867e5273/75a9cd5a-7594-4e49-abfd-a943867e5273.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=LKvNDDNj99BhMArEykZe_VqEHI4" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/75a9cd5a-7594-4e49-abfd-a943867e5273/75a9cd5a-7594-4e49-abfd-a943867e5273.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=LKvNDDNj99BhMArEykZe_VqEHI4" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>1579</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -143,7 +150,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">8e969492-4bbe-4f59-a77e-46ec9cac7748</guid>
       <pubDate>Tue, 14 Jul 2026 03:00:10 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/9fb9fabe-e94d-4e1d-9b07-2094e730a04f/9fb9fabe-e94d-4e1d-9b07-2094e730a04f.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=hquLuQZMwDx2GRKO9FWLtuvoghY" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/9fb9fabe-e94d-4e1d-9b07-2094e730a04f/9fb9fabe-e94d-4e1d-9b07-2094e730a04f.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=hquLuQZMwDx2GRKO9FWLtuvoghY" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>2722</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -166,7 +174,8 @@ Musik: Peter Sejersbøl
 Redaktør: Sarah Ørsted</description>
       <guid isPermaLink="false">3bd17a4a-3cbd-4ecd-9a3c-689f8bb09630</guid>
       <pubDate>Sat, 11 Jul 2026 03:00:35 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/880fa4e3-1247-4263-abd5-e41679754430/880fa4e3-1247-4263-abd5-e41679754430.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=M7xBQlSSH-XCtALg3Hftkc3ESR8" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/880fa4e3-1247-4263-abd5-e41679754430/880fa4e3-1247-4263-abd5-e41679754430.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=M7xBQlSSH-XCtALg3Hftkc3ESR8" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>2759</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -174,7 +183,7 @@ Redaktør: Sarah Ørsted</description>
     </item>
     <item>
       <title>S23-E2: Jeres spørgsmål: Mor i misbrug, eks-rocker Chris Holland og Fisker-Dan</title>
-      <description>Sæson 22 bød på så mange stærke gæster, at vi helt glemte at runde af med jeres spørgsmål. Så nu tager vi den Q&amp;A, der aldrig kom - og ringer tilbage til nogle af dem, der satte sig fast. Vi taler med Camilla, der fik sin lille søn anbragt, mens hun var i misbrug - efter en underretning fra hendes egen storebror. Med Bo, der forsvandt ind i et kokain-kaos og brød ind hos sine egne forældre, før familien fik ham ud igen. Med Chris Holland, der forlod to af Danmarks største rockergrupperinger - men opdagede, at sådan en fortid ikke bare giver slip. Og med Fisker-Dan, der aldrig mangler ord.
+      <description>Sæson 22 bød på så mange stærke gæster, at vi helt glemte at runde af med jeres spørgsmål. Så nu tager vi den Q&amp;amp;A, der aldrig kom - og ringer tilbage til nogle af dem, der satte sig fast. Vi taler med Camilla, der fik sin lille søn anbragt, mens hun var i misbrug - efter en underretning fra hendes egen storebror. Med Bo, der forsvandt ind i et kokain-kaos og brød ind hos sine egne forældre, før familien fik ham ud igen. Med Chris Holland, der forlod to af Danmarks største rockergrupperinger - men opdagede, at sådan en fortid ikke bare giver slip. Og med Fisker-Dan, der aldrig mangler ord.
 
 Find gæsterne her i appen under deres egne episoder. De fleste følger med, så du kan selv stille dem dine spørgsmål.
 
@@ -189,7 +198,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">3597a345-ba7a-4f57-81da-4b603e736aa1</guid>
       <pubDate>Tue, 07 Jul 2026 03:00:37 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/0b32ce02-99e9-45d9-9fe3-ff8190fed7fb/0b32ce02-99e9-45d9-9fe3-ff8190fed7fb.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=Mgg5q8mFX7Xa_ohqET5z0U24Smk" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/0b32ce02-99e9-45d9-9fe3-ff8190fed7fb/0b32ce02-99e9-45d9-9fe3-ff8190fed7fb.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=Mgg5q8mFX7Xa_ohqET5z0U24Smk" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>2273</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -214,7 +224,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">15757a6a-0d9c-427d-8957-c30f784a8457</guid>
       <pubDate>Tue, 30 Jun 2026 02:00:39 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/e98924e4-1db8-442d-985d-499aade5c673/e98924e4-1db8-442d-985d-499aade5c673.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=B_crMkGNuC3PIOUOQsCkwvF4SOw" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/e98924e4-1db8-442d-985d-499aade5c673/e98924e4-1db8-442d-985d-499aade5c673.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=B_crMkGNuC3PIOUOQsCkwvF4SOw" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>1794</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -239,7 +250,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">6cc039bd-77f5-4b88-9450-dc1a35095142</guid>
       <pubDate>Tue, 23 Jun 2026 03:10:19 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/c4fea3a0-67cf-4a36-880f-f6fc2afd9f38/c4fea3a0-67cf-4a36-880f-f6fc2afd9f38.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=Ta_ywILG-Q-tBmz8Op2tlWsXwZo" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/c4fea3a0-67cf-4a36-880f-f6fc2afd9f38/c4fea3a0-67cf-4a36-880f-f6fc2afd9f38.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=Ta_ywILG-Q-tBmz8Op2tlWsXwZo" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>2053</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -262,7 +274,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">eea10b22-b253-4c85-9659-45e0f725c6ca</guid>
       <pubDate>Tue, 16 Jun 2026 03:01:32 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/0f22d235-cd98-43da-9cc3-a29b3e41be90/0f22d235-cd98-43da-9cc3-a29b3e41be90.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=om0AxRTyw-3NrZ24Zvh9krfEkWc" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/0f22d235-cd98-43da-9cc3-a29b3e41be90/0f22d235-cd98-43da-9cc3-a29b3e41be90.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=om0AxRTyw-3NrZ24Zvh9krfEkWc" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>2221</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -287,7 +300,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">25af13a9-e3f1-4c5d-a822-0a01dbf0c0f5</guid>
       <pubDate>Tue, 09 Jun 2026 03:10:35 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/1f6427f7-3f0b-4bfe-8989-ef745928d68e/1f6427f7-3f0b-4bfe-8989-ef745928d68e.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=KExXuXZayJqej3Ky6CodsLVQ_18" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/1f6427f7-3f0b-4bfe-8989-ef745928d68e/1f6427f7-3f0b-4bfe-8989-ef745928d68e.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=KExXuXZayJqej3Ky6CodsLVQ_18" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>2100</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -300,7 +314,8 @@ Musik: Peter Sejersbøl</description>
 Episoden udkom første gang i august 2024.</description>
       <guid isPermaLink="false">a179cfa3-7602-41a4-b5e9-0cd8ad09db65</guid>
       <pubDate>Sat, 06 Jun 2026 03:00:24 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/1350020e-60e1-43e6-811f-25314d4580d7/1350020e-60e1-43e6-811f-25314d4580d7.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=7pVh1_TU9od20CZvEr7eAOICyIs" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/1350020e-60e1-43e6-811f-25314d4580d7/1350020e-60e1-43e6-811f-25314d4580d7.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=7pVh1_TU9od20CZvEr7eAOICyIs" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>3062</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -323,7 +338,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">5a609d97-9e54-4ca3-9968-19e7c02e21ca</guid>
       <pubDate>Tue, 02 Jun 2026 03:10:10 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/0b75b96b-3ed1-4419-a91e-a47954e58600/0b75b96b-3ed1-4419-a91e-a47954e58600.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=hxR8aJaGIXM7dRQewclTraqE9oo" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/0b75b96b-3ed1-4419-a91e-a47954e58600/0b75b96b-3ed1-4419-a91e-a47954e58600.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=hxR8aJaGIXM7dRQewclTraqE9oo" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>2224</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -346,7 +362,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">80f3787e-04b5-4d14-a9c7-d3f1474f03d3</guid>
       <pubDate>Tue, 26 May 2026 03:00:20 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/a89231a0-bdef-47d5-a051-ff8462d04b8c/a89231a0-bdef-47d5-a051-ff8462d04b8c.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=9lEW8o_K26Duj_ek7QJuquIJGfw" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/a89231a0-bdef-47d5-a051-ff8462d04b8c/a89231a0-bdef-47d5-a051-ff8462d04b8c.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=9lEW8o_K26Duj_ek7QJuquIJGfw" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>2245</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -371,7 +388,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">f43893ef-eb59-4dba-a48a-989c90837d17</guid>
       <pubDate>Tue, 19 May 2026 03:10:29 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/7a63504e-4788-479c-976c-20f58523a5cf/7a63504e-4788-479c-976c-20f58523a5cf.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=cyh5Js-bSYqVCFIiaBoprSAufXI" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/7a63504e-4788-479c-976c-20f58523a5cf/7a63504e-4788-479c-976c-20f58523a5cf.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=cyh5Js-bSYqVCFIiaBoprSAufXI" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>2608</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -394,7 +412,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">46789027-02ae-4a36-88ad-12e64ba0a713</guid>
       <pubDate>Tue, 12 May 2026 03:00:59 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/64ec7d58-e92c-407f-9402-d975a988e897/64ec7d58-e92c-407f-9402-d975a988e897.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=JeNiUIJ9N-3YwySTG-KEE_KU9to" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/64ec7d58-e92c-407f-9402-d975a988e897/64ec7d58-e92c-407f-9402-d975a988e897.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=JeNiUIJ9N-3YwySTG-KEE_KU9to" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>2168</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -419,7 +438,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">e3523052-68f2-4a5d-96ed-836a5cb7f818</guid>
       <pubDate>Tue, 05 May 2026 03:01:00 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/a259646f-786d-43c9-8456-8989707b8b73/a259646f-786d-43c9-8456-8989707b8b73.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=dJzxQEVsDS0bcJDCJWIDaj_98hw" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/a259646f-786d-43c9-8456-8989707b8b73/a259646f-786d-43c9-8456-8989707b8b73.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=dJzxQEVsDS0bcJDCJWIDaj_98hw" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>2954</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -442,7 +462,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">410ea598-d29e-464a-8988-6e8e069b5691</guid>
       <pubDate>Tue, 28 Apr 2026 03:10:33 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/5c02c550-1cf7-4d95-ba0e-237c41cb0a6b/5c02c550-1cf7-4d95-ba0e-237c41cb0a6b.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=Hwm0K6U-q19EF0nifN-guo_9ONI" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/5c02c550-1cf7-4d95-ba0e-237c41cb0a6b/5c02c550-1cf7-4d95-ba0e-237c41cb0a6b.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=Hwm0K6U-q19EF0nifN-guo_9ONI" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>2199</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -467,7 +488,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">1ee9dea1-14a5-4cf2-9a11-0057ebb7cd75</guid>
       <pubDate>Tue, 14 Apr 2026 03:10:44 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/5cde8291-8328-4aa4-a6bc-eaa0c5a1b613/5cde8291-8328-4aa4-a6bc-eaa0c5a1b613.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=eId6Z_cxO8R0PKqtv493K68FEKo" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/5cde8291-8328-4aa4-a6bc-eaa0c5a1b613/5cde8291-8328-4aa4-a6bc-eaa0c5a1b613.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=eId6Z_cxO8R0PKqtv493K68FEKo" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>2171</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -490,7 +512,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">b0bd8948-36b4-4241-b8f7-0c060efa82dc</guid>
       <pubDate>Tue, 07 Apr 2026 03:00:14 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/30d41b6b-8158-4994-b169-2e3569560d0f/30d41b6b-8158-4994-b169-2e3569560d0f.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=EJFs09s1poN_JMfvvIsB2O_mHAs" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/30d41b6b-8158-4994-b169-2e3569560d0f/30d41b6b-8158-4994-b169-2e3569560d0f.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=EJFs09s1poN_JMfvvIsB2O_mHAs" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>2648</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -513,7 +536,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">3be79c7b-aec7-4e39-bbba-4bb0a2d4aa93</guid>
       <pubDate>Tue, 31 Mar 2026 03:00:13 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/b54bf0f1-6b83-44ce-a4a7-b6a8ca9b1cf2/b54bf0f1-6b83-44ce-a4a7-b6a8ca9b1cf2.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=GfNAPwUiT3YvPsg4U0Dr-faZj-s" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/b54bf0f1-6b83-44ce-a4a7-b6a8ca9b1cf2/b54bf0f1-6b83-44ce-a4a7-b6a8ca9b1cf2.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=GfNAPwUiT3YvPsg4U0Dr-faZj-s" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>2088</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -538,7 +562,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">81530728-9411-496d-bd16-c11e7c7dd234</guid>
       <pubDate>Tue, 24 Mar 2026 04:10:09 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/5cd5c1d6-8f4d-4996-9f8d-43f4d7baa82f/5cd5c1d6-8f4d-4996-9f8d-43f4d7baa82f.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=-bCZ0Mwbu141bMtsGGD7ADKU0no" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/5cd5c1d6-8f4d-4996-9f8d-43f4d7baa82f/5cd5c1d6-8f4d-4996-9f8d-43f4d7baa82f.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=-bCZ0Mwbu141bMtsGGD7ADKU0no" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>2664</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -563,7 +588,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">af5b04f0-499d-4c71-961f-4deaf62678cd</guid>
       <pubDate>Tue, 17 Mar 2026 04:10:09 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/6b24180c-7c07-48fa-b890-7bbdf6592332/6b24180c-7c07-48fa-b890-7bbdf6592332.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=b395Eme67MQkDt63tTXLCZFyl-Y" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/6b24180c-7c07-48fa-b890-7bbdf6592332/6b24180c-7c07-48fa-b890-7bbdf6592332.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=b395Eme67MQkDt63tTXLCZFyl-Y" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>2704</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -573,7 +599,7 @@ Musik: Peter Sejersbøl</description>
       <title>S21-E10: Fisker-Dan: "Jeg drak en kasse bajer om dagen" (1:2)</title>
       <description>Fisker-Dan taler lige ud af posen. Han gider ikke noget “fordummende lort”. Og hvis folk ikke kan finde ud af det, kan de “pisse et andet sted hen og købe deres fladfisk”.
 
-52-årige Dan Holmstad-Petersen driver i dag Brøndby Strand Fisk &amp; Skaldyr og har næsten 40.000 følgere på Instagram. Her langer han både frisk fisk over disken og kontante holdninger ud til sine følgere. Men vejen dertil har været alt andet end lige. Dan har levet et liv fyldt med røverhistorier, ludere og lommetyve. I årevis var han alkoholiker og en del af miljøet på Vesterbro - et sted, hvor han lærte at klare sig selv i en verden, der sjældent spiller efter reglerne.
+52-årige Dan Holmstad-Petersen driver i dag Brøndby Strand Fisk &amp;amp; Skaldyr og har næsten 40.000 følgere på Instagram. Her langer han både frisk fisk over disken og kontante holdninger ud til sine følgere. Men vejen dertil har været alt andet end lige. Dan har levet et liv fyldt med røverhistorier, ludere og lommetyve. I årevis var han alkoholiker og en del af miljøet på Vesterbro - et sted, hvor han lærte at klare sig selv i en verden, der sjældent spiller efter reglerne.
 
 René og Fisker-Dan har kendt hinanden i mere end 25 år. De mødes stadig over kaffe på den samme café i Istedgade - nogle gange tilfældigt, andre gange med vilje. For der er noget ved Dan: Han siger tingene, præcis som de er.
 
@@ -588,7 +614,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">9876e9bb-8092-416d-a320-5d63b4dbc153</guid>
       <pubDate>Tue, 10 Mar 2026 04:10:10 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/772506d3-df31-4052-8a31-456e525797d7/772506d3-df31-4052-8a31-456e525797d7.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=w_qEoyH8iZY45Zb5fFeeLiNcE5g" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/772506d3-df31-4052-8a31-456e525797d7/772506d3-df31-4052-8a31-456e525797d7.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=w_qEoyH8iZY45Zb5fFeeLiNcE5g" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>2571</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -613,7 +640,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">f51b3220-fd48-4d93-add7-7bf5313a9227</guid>
       <pubDate>Tue, 03 Mar 2026 04:10:10 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/67275cf8-2ba5-448c-bf15-d1268241672a/67275cf8-2ba5-448c-bf15-d1268241672a.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=DYvYPhBlAeYEGy2j2TOEhtwJ3eE" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/67275cf8-2ba5-448c-bf15-d1268241672a/67275cf8-2ba5-448c-bf15-d1268241672a.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=DYvYPhBlAeYEGy2j2TOEhtwJ3eE" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>2606</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -640,7 +668,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">5f8cffad-3db7-4a47-be3b-cd34737aef82</guid>
       <pubDate>Tue, 24 Feb 2026 04:10:37 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/c2b89b7f-4d47-45d8-83ca-12f73bf53550/c2b89b7f-4d47-45d8-83ca-12f73bf53550.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=57hc0D_WGXv8TgzcWNIce36TM0M" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/c2b89b7f-4d47-45d8-83ca-12f73bf53550/c2b89b7f-4d47-45d8-83ca-12f73bf53550.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=57hc0D_WGXv8TgzcWNIce36TM0M" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>2486</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -667,7 +696,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">5a930d12-9b8b-4cd6-b286-f812535a88fc</guid>
       <pubDate>Tue, 17 Feb 2026 04:10:08 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/b54da6a8-1c05-42e6-b613-02b493076cc3/b54da6a8-1c05-42e6-b613-02b493076cc3.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=ffcz-6q2u8D6HVC2jCfcnfBkeBU" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/b54da6a8-1c05-42e6-b613-02b493076cc3/b54da6a8-1c05-42e6-b613-02b493076cc3.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=ffcz-6q2u8D6HVC2jCfcnfBkeBU" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>2517</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -690,7 +720,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">544ae975-e0b5-4e98-a6b9-553756cc1262</guid>
       <pubDate>Tue, 10 Feb 2026 04:10:18 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/97177f94-1bbb-4d42-ad9d-2b3b9ff4ef0a/97177f94-1bbb-4d42-ad9d-2b3b9ff4ef0a.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=tIVYFuvoPnTsIfCzK-oNi3xZlZ0" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/97177f94-1bbb-4d42-ad9d-2b3b9ff4ef0a/97177f94-1bbb-4d42-ad9d-2b3b9ff4ef0a.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=tIVYFuvoPnTsIfCzK-oNi3xZlZ0" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>2316</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -716,7 +747,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">c773c259-aca6-41a7-807c-f62810519ed8</guid>
       <pubDate>Sat, 07 Feb 2026 03:10:04 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/f1d09bf4-0f2d-498b-adc0-9df2d9266477/f1d09bf4-0f2d-498b-adc0-9df2d9266477.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=tSVw-FYnfvWiv1S7vNMxMTJR6hk" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/f1d09bf4-0f2d-498b-adc0-9df2d9266477/f1d09bf4-0f2d-498b-adc0-9df2d9266477.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=tSVw-FYnfvWiv1S7vNMxMTJR6hk" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>2389</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -739,7 +771,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">fd8a5af7-ae97-44c9-a86b-535346c55f68</guid>
       <pubDate>Tue, 03 Feb 2026 04:00:36 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/920332c9-7621-432c-b2d2-80dc3678254e/920332c9-7621-432c-b2d2-80dc3678254e.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=LVXsnBW3j5gx3eTc0YOCcG6ONKE" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/920332c9-7621-432c-b2d2-80dc3678254e/920332c9-7621-432c-b2d2-80dc3678254e.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=LVXsnBW3j5gx3eTc0YOCcG6ONKE" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>1793</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -760,7 +793,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">b4c033e2-032e-42fe-b9dd-821bc1243c00</guid>
       <pubDate>Tue, 27 Jan 2026 03:00:15 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/c24571a3-1453-44fd-9c35-9238ba64f17f/c24571a3-1453-44fd-9c35-9238ba64f17f.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=hOjugSxBIE1S1vC7s7lgcoFm3oc" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/c24571a3-1453-44fd-9c35-9238ba64f17f/c24571a3-1453-44fd-9c35-9238ba64f17f.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=hOjugSxBIE1S1vC7s7lgcoFm3oc" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>2092</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -785,7 +819,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">d9465088-19c1-4168-820a-106da99fd96d</guid>
       <pubDate>Tue, 20 Jan 2026 04:00:23 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/186e865f-a1bf-4252-b7e6-62031d7ead11/186e865f-a1bf-4252-b7e6-62031d7ead11.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=bSmp1qPBGK-VNNry8dIJ4bt3buA" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/186e865f-a1bf-4252-b7e6-62031d7ead11/186e865f-a1bf-4252-b7e6-62031d7ead11.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=bSmp1qPBGK-VNNry8dIJ4bt3buA" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>2420</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -808,7 +843,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">d4f556b1-4b53-45d3-a7e6-3487aa66ea67</guid>
       <pubDate>Tue, 13 Jan 2026 03:10:06 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/fbec3b1f-e917-4667-a232-4e222a321237/fbec3b1f-e917-4667-a232-4e222a321237.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=Qf3rhsHKudrSuXuxro2-A4jtwuk" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/fbec3b1f-e917-4667-a232-4e222a321237/fbec3b1f-e917-4667-a232-4e222a321237.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=Qf3rhsHKudrSuXuxro2-A4jtwuk" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>1976</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -827,7 +863,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">b8b8cb6e-ca64-4fe6-aaa4-63feb7286e1d</guid>
       <pubDate>Tue, 06 Jan 2026 03:00:22 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/94ae1cb2-4554-4ed5-9a06-d85430dad31f/94ae1cb2-4554-4ed5-9a06-d85430dad31f.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=VcbHhnJumOsX_KtL8kw-mCHh8ps" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/94ae1cb2-4554-4ed5-9a06-d85430dad31f/94ae1cb2-4554-4ed5-9a06-d85430dad31f.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=VcbHhnJumOsX_KtL8kw-mCHh8ps" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>2149</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -853,7 +890,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">5ee1397d-4610-46d9-abcb-8e52d053e74f</guid>
       <pubDate>Sat, 03 Jan 2026 04:00:06 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/eb18dc26-32a5-414f-afa4-b46f9ebc8915/eb18dc26-32a5-414f-afa4-b46f9ebc8915.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=D-FuFdbJX_j9h0mD8226IRfrkxw" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/eb18dc26-32a5-414f-afa4-b46f9ebc8915/eb18dc26-32a5-414f-afa4-b46f9ebc8915.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=D-FuFdbJX_j9h0mD8226IRfrkxw" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>3597</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -861,7 +899,7 @@ Musik: Peter Sejersbøl</description>
     </item>
     <item>
       <title>S20-E12: Sæsonafslutning: Dem, vi ikke kunne glemme</title>
-      <description>Vi afslutter traditionen tro sæsonen med en Q&amp;A - og denne gang tjekker vi ind hos flere af de gæster, der har været svære at glemme. Sylvester, der var Bandidos-rocker og blev bedemand, Selina, der væltede studiet med sin vilde energi og sin særlige livshistorie, Amanda, der har brugt de seneste år på at hele efter en voldtægt og Patrick og Nicoline, der kæmpede med misbrug, samtidig med, at de blev forældre.
+      <description>Vi afslutter traditionen tro sæsonen med en Q&amp;amp;A - og denne gang tjekker vi ind hos flere af de gæster, der har været svære at glemme. Sylvester, der var Bandidos-rocker og blev bedemand, Selina, der væltede studiet med sin vilde energi og sin særlige livshistorie, Amanda, der har brugt de seneste år på at hele efter en voldtægt og Patrick og Nicoline, der kæmpede med misbrug, samtidig med, at de blev forældre.
 
 Og er der noget, du vil spørge René om, så stil dit spørgsmål her i app’en!
 
@@ -876,7 +914,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">29d64a9b-1691-4777-9d40-19a532d08053</guid>
       <pubDate>Tue, 30 Dec 2025 03:10:10 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/dd227470-24b3-4f90-9a29-e57172fd5a84/dd227470-24b3-4f90-9a29-e57172fd5a84.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=p41ReqW-ZDSKg_eeXqM1GCSB_Ak" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/dd227470-24b3-4f90-9a29-e57172fd5a84/dd227470-24b3-4f90-9a29-e57172fd5a84.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=p41ReqW-ZDSKg_eeXqM1GCSB_Ak" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>2224</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -886,7 +925,7 @@ Musik: Peter Sejersbøl</description>
       <title>S20-E11: Bonnie &amp; Clyde i en sort Fiat Punto</title>
       <description>Der omtales selvskade i episoden. Du kan kontakte Foreningen Spiseforstyrrelser og Selvskade på telefon 70 10 18 18 hver mandag og torsdag kl. 9.00–19.00 samt tirsdag og onsdag kl. 16.00–19.00.
 
-Da Jesper og Nanna mødes første gang, genkender de noget i hinanden, som de ikke helt kan finde ord for, de ved bare, at de to skal være ”for life”. Dagen efter flytter Nanna ind hos Jesper, og så starter de en tilværelse, der mest af alt minder om Amager-udgaven af Bonnie &amp; Clyde. Nanna og Jesper kører ud i natten i en sort Fiat Punto for at sælge hash, de ryger overskuddet op og finder tryghed i hinandens arme, mens verden udenfor bliver mere og mere urolig.
+Da Jesper og Nanna mødes første gang, genkender de noget i hinanden, som de ikke helt kan finde ord for, de ved bare, at de to skal være ”for life”. Dagen efter flytter Nanna ind hos Jesper, og så starter de en tilværelse, der mest af alt minder om Amager-udgaven af Bonnie &amp;amp; Clyde. Nanna og Jesper kører ud i natten i en sort Fiat Punto for at sælge hash, de ryger overskuddet op og finder tryghed i hinandens arme, mens verden udenfor bliver mere og mere urolig.
 
 Sådan lever de, indtil Nanna en dag står med en positiv graviditetstest og en drøm om at skabe en fælles fremtid.
 
@@ -901,7 +940,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">88c6ebc4-0751-4bf8-8315-27f87be60a54</guid>
       <pubDate>Tue, 23 Dec 2025 04:00:11 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/de9bfe76-c710-4e64-8891-17415cd2dd4d/de9bfe76-c710-4e64-8891-17415cd2dd4d.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=dlC0MhgLnGlLt4BTBhiJJ1MauSk" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/de9bfe76-c710-4e64-8891-17415cd2dd4d/de9bfe76-c710-4e64-8891-17415cd2dd4d.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=dlC0MhgLnGlLt4BTBhiJJ1MauSk" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>3021</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -928,7 +968,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">247d452f-dfb2-4ec0-8d4b-e76693364b41</guid>
       <pubDate>Tue, 16 Dec 2025 03:10:19 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/13cd3015-92b6-457c-b204-1bf300149beb/13cd3015-92b6-457c-b204-1bf300149beb.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=EvUgRFLFG7Xj1XoRdgw_ftRWGrc" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/13cd3015-92b6-457c-b204-1bf300149beb/13cd3015-92b6-457c-b204-1bf300149beb.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=EvUgRFLFG7Xj1XoRdgw_ftRWGrc" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>2982</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -953,7 +994,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">8d44271f-3f2f-475c-82a3-b2168dab0053</guid>
       <pubDate>Tue, 09 Dec 2025 03:10:04 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/9282526d-77d0-4195-823c-cb8c0f964bc9/9282526d-77d0-4195-823c-cb8c0f964bc9.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=l60TK_o_Rcpa54uE8VNh-w5wBZs" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/9282526d-77d0-4195-823c-cb8c0f964bc9/9282526d-77d0-4195-823c-cb8c0f964bc9.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=l60TK_o_Rcpa54uE8VNh-w5wBZs" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>1813</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -979,7 +1021,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">f9756689-cce2-41ac-a430-17ddc1fe1788</guid>
       <pubDate>Sat, 06 Dec 2025 03:10:11 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/ac275146-8dcb-44b1-bd2e-b048da16d38c/ac275146-8dcb-44b1-bd2e-b048da16d38c.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=T9X3-0kEoCvuYtynQGVMvxPWjpg" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/ac275146-8dcb-44b1-bd2e-b048da16d38c/ac275146-8dcb-44b1-bd2e-b048da16d38c.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=T9X3-0kEoCvuYtynQGVMvxPWjpg" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>2479</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -1004,7 +1047,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">118e79c0-46d7-4693-8e2e-a32bbea66024</guid>
       <pubDate>Tue, 02 Dec 2025 07:55:57 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/e04e1947-5b4f-4df9-aa5f-83be3b59ebc3/e04e1947-5b4f-4df9-aa5f-83be3b59ebc3.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=rG2aTssu48NxZHsx5-BnWqsM3zo" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/e04e1947-5b4f-4df9-aa5f-83be3b59ebc3/e04e1947-5b4f-4df9-aa5f-83be3b59ebc3.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=rG2aTssu48NxZHsx5-BnWqsM3zo" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>2202</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -1027,7 +1071,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">15a55ec5-ec58-4ff6-96e8-5e1ad4d8bb1c</guid>
       <pubDate>Tue, 25 Nov 2025 03:10:27 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/6a37c157-8729-4018-8a34-48f471b85a68/6a37c157-8729-4018-8a34-48f471b85a68.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=WuB7MlIokk-gjoehB_LtTM9BCrA" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/6a37c157-8729-4018-8a34-48f471b85a68/6a37c157-8729-4018-8a34-48f471b85a68.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=WuB7MlIokk-gjoehB_LtTM9BCrA" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>2052</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -1052,7 +1097,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">26eb4a7b-86b7-4ae4-b0bc-bedc55ece67b</guid>
       <pubDate>Tue, 18 Nov 2025 03:10:06 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/e6637064-6cb1-4974-b4c3-682fad70539f/e6637064-6cb1-4974-b4c3-682fad70539f.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=GB2MIebbcrKzRBTsJcI1nOHkvjY" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/e6637064-6cb1-4974-b4c3-682fad70539f/e6637064-6cb1-4974-b4c3-682fad70539f.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=GB2MIebbcrKzRBTsJcI1nOHkvjY" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>1736</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -1078,7 +1124,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">88f64f2d-5fc7-45fa-b0b1-d3c64611745d</guid>
       <pubDate>Tue, 11 Nov 2025 03:00:18 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/884ffccc-4a66-4a4e-8828-480f52d474f5/884ffccc-4a66-4a4e-8828-480f52d474f5.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=VhPTp_jl65ZfocyVI9xbqd3ddEs" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/884ffccc-4a66-4a4e-8828-480f52d474f5/884ffccc-4a66-4a4e-8828-480f52d474f5.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=VhPTp_jl65ZfocyVI9xbqd3ddEs" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>2391</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -1101,7 +1148,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">2720c98c-e139-4ff3-b70d-f52bfe7f0cac</guid>
       <pubDate>Tue, 04 Nov 2025 03:00:18 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/2caefcb3-9950-40f9-a9fd-4e7c34e8d21f/2caefcb3-9950-40f9-a9fd-4e7c34e8d21f.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=brlXk51RUZTw2bWg6ZbDlMeQ9MY" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/2caefcb3-9950-40f9-a9fd-4e7c34e8d21f/2caefcb3-9950-40f9-a9fd-4e7c34e8d21f.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=brlXk51RUZTw2bWg6ZbDlMeQ9MY" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>2414</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -1127,7 +1175,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">5465067a-5e68-41c9-a71f-fc2ef216f9fe</guid>
       <pubDate>Sat, 01 Nov 2025 03:00:06 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/d780c2ee-0876-4d75-98c2-4d5d6b53b299/d780c2ee-0876-4d75-98c2-4d5d6b53b299.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=-65wP0XBVWnF0NDHLfDvm2SSw58" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/d780c2ee-0876-4d75-98c2-4d5d6b53b299/d780c2ee-0876-4d75-98c2-4d5d6b53b299.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=-65wP0XBVWnF0NDHLfDvm2SSw58" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>2456</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -1153,7 +1202,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">b9bb3900-5eb8-4c66-9bdd-6f64f846a597</guid>
       <pubDate>Tue, 28 Oct 2025 03:00:03 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/b56d6e03-aba8-4020-b930-4c0002598b22/b56d6e03-aba8-4020-b930-4c0002598b22.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=Nf32Sh6c7mp1je2lHhamx9uf7Jo" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/b56d6e03-aba8-4020-b930-4c0002598b22/b56d6e03-aba8-4020-b930-4c0002598b22.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=Nf32Sh6c7mp1je2lHhamx9uf7Jo" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>2970</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -1180,7 +1230,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">efb4506f-230d-4eee-8ca1-2913c77c306e</guid>
       <pubDate>Tue, 21 Oct 2025 02:00:29 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/b9187c3a-89b5-4e1c-83bf-56c1d8695919/b9187c3a-89b5-4e1c-83bf-56c1d8695919.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=bNTwb316dbw2VneXVDDISJ2t1Bg" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/b9187c3a-89b5-4e1c-83bf-56c1d8695919/b9187c3a-89b5-4e1c-83bf-56c1d8695919.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=bNTwb316dbw2VneXVDDISJ2t1Bg" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>2447</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -1205,7 +1256,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">cafb8e09-4a79-4734-95fd-971bcb933a54</guid>
       <pubDate>Wed, 15 Oct 2025 02:00:13 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/41cfed1b-4d7b-423a-865e-8fdf40e8350c/41cfed1b-4d7b-423a-865e-8fdf40e8350c.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=EDxFVjePUM5WzHBY2C__ytuieaQ" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/41cfed1b-4d7b-423a-865e-8fdf40e8350c/41cfed1b-4d7b-423a-865e-8fdf40e8350c.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=EDxFVjePUM5WzHBY2C__ytuieaQ" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>2401</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -1232,7 +1284,8 @@ Produktion, mix og klip: Jakob Ranum
 Musik: Peter Sejersbøl</description>
       <guid isPermaLink="false">f98be70a-810d-4b03-8905-33df6213eee8</guid>
       <pubDate>Tue, 14 Oct 2025 02:00:04 +0000</pubDate>
-      <enclosure url="https://media-cdn-episodes.podimo.com/3ea986f0-7b5e-48e5-aab4-6e5a4fb54f6a/3ea986f0-7b5e-48e5-aab4-6e5a4fb54f6a.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=zj__4g_mCwcwh0PorhJ9HQQgqZs" length="0" type="application/vnd.apple.mpegurl" />
+      <enclosure url="https://media-cdn-episodes.podimo.com/3ea986f0-7b5e-48e5-aab4-6e5a4fb54f6a/3ea986f0-7b5e-48e5-aab4-6e5a4fb54f6a.m3u8?KeyName=media-cdn-episodes-manifest-key&amp;Signature=zj__4g_mCwcwh0PorhJ9HQQgqZs" length="0" type="audio/mpegurl" />
+      <itunes:author>René Dahl Andersen</itunes:author>
       <itunes:duration>34</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
